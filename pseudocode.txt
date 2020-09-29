@@ -1,0 +1,26 @@
+//pseudocode that counts all the odd numbers up to the user defined stopping point then it computes the average.
+//define input and output
+//read endpoint_point
+// statement set i value
+//condition i value is less than endpoint 
+//increment
+//if checking of oddnumbers
+// if its odd sum up
+//average
+
+***********************************pseudocode********************************************************************************
+input endpoint
+
+read endpoint from user 
+
+
+FOR set i value to 1 and i value should be less than endpoint then increment the i value
+
+   IF i modulus two  is not equal to zero 
+
+    THEN find the sum of odd numbers and divide by the  number of odd numbers then  compute the average
+
+    
+
+
+
